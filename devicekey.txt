@@ -1,0 +1,18 @@
+Key Generation:
+	Input:Client Name
+	Client EmailID
+	App Name
+	No.of License
+
+
+       Response:Client Name
+	Client EmailID
+	App Name
+	License Key(Array) based on n no of licenses
+	Status
+
+
+Update: DeviceID
+	Status
+
+
